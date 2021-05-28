@@ -1,1 +1,1 @@
-#define COMMA_VERSION "0.8.5.CI.5.25.2"
+#define COMMA_VERSION "0.8.5.CI.5.25.3"
